@@ -1,0 +1,5 @@
+Dockerfile
+/.vscode
+.dockerignore
+.filebeat.docker.yml
+/env
